@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **DeltaClient** 𝚫  
   
 
-- 🌱 I’m currently learning Spring🍃  
+- 🌱 I’m currently learning **Spring**🍃 
   
 
-- ❓ Always looking for trustworthy people to learn from  
+- ❓ Always looking for **trustworthy** people to **learn** from  
   
 
 - ⚡ Fun fact: Here is what i have on my desk:
-    * Granolas
-    * Cup of coffee (helps with debugging)
-    * Shots of vodka (helps with finding solutions)  
+    * **Granolas**🍪
+    * Cup of **coffee**☕ (helps with debugging)
+    * Shots of **vodka**🥃 (helps with finding solutions)  
   
 
 <br/>  
