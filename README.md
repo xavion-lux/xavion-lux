@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **DeltaClient δ**  
   
 
-- 🌱 I’m currently learning **Spring** 🍃 
+- 🌱 I’m currently learning **Node.js and Express.js** 
   
 
 - ❓ Always looking for **trustworthy** people to **learn** from  
