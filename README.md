@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <div align="center">Your local sleep-deprived dev 🚀💤</div>  
   
 
-- 🔭 I’m currently working on **DeltaClient δ**  
+- 🔭 I’m currently working on **DeltaMod δ**  
   
 
 - 🌱 I’m currently learning **Node.js and Express.js** 
