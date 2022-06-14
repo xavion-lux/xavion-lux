@@ -32,8 +32,6 @@ Here are some ideas to get you started:
     * Cup of **coffee** ☕ (helps with debugging)
     * Shots of **vodka** 🥃 (helps with finding solutions)  
 
-<br/>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O7D9HCU)  
 
  
@@ -73,7 +71,6 @@ Here are some ideas to get you started:
 </td><td valign="top" width="33%">
 
 
-
 ### Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
@@ -84,8 +81,6 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 
 ## Github Stats | Spotify
