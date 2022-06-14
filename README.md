@@ -88,34 +88,10 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/xavion-lux" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/xavion_lux" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/xavion.lux" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Github Stats | Spotify
+<img src="https://github-readme-stats.vercel.app/api?username=xavion-lux&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" align="left" />
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xavion-lux&cover_image=true&theme=novatorem&bar_color=C792EA&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xavion-lux&redirect=true)
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xavion-lux&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xavion-lux&cover_image=true&theme=default&bar_color=ababd6&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xavion-lux&&style=flat-square" align="center" />
-</div>  
-
-<br />
