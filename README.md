@@ -31,9 +31,12 @@ Here are some ideas to get you started:
     * **Granolas** 🍪
     * Cup of **coffee** ☕ (helps with debugging)
     * Shots of **vodka** 🥃 (helps with finding solutions)  
-  
 
-<br/>  
+<br/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O7D9HCU)  
+
+ 
 
 
 ## My Skill Set  
