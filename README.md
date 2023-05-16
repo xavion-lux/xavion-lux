@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <div align="center">Your local sleep-deprived dev 🚀💤</div>  
   
 
-- 🔭 I’m currently working on **VRC-SpeechToChatbox**  
+- 🔭 I’m currently working on **personal projects**  
   
 
 - 🌱 I’m currently learning **Rust** 
