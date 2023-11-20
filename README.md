@@ -28,9 +28,8 @@ Here are some ideas to get you started:
   
 
 - ⚡ Fun fact: Here is what i have on my desk:
-    * **Granolas** 🍪
-    * Cup of **coffee** ☕ (helps with debugging)
-    * Shots of **vodka** 🥃 (helps with finding solutions)  
+    * **Granolas** 🍪 (for late night snacks)
+    * Cup of **coffee** ☕ (for late night debugging)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O7D9HCU)  
 
